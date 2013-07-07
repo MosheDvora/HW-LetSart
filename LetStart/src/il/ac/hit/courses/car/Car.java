@@ -4,7 +4,7 @@ package il.ac.hit.courses.car;
 import java.awt.*;
 public class Car
 {
-	//test git
+	//test git 2
  /**
   * The car's brand. 
   */
